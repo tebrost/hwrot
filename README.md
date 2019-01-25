@@ -1,2 +1,2 @@
 # hwrot
-Hardwarae Root of Trust
+Hardware Root of Trust
